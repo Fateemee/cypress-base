@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://127.0.0.1:8080",
+  "env": {
+    "environment": "dev",
+    "accountId": 31,
+    "username": "myusername",
+    "password": "mypassword",
+    "cyLogStyles": "info"
+  },
+  "video": false,
+  "screenshotOnRunFailure": false,
+  "timeout": 70000
+}
